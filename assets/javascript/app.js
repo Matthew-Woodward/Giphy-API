@@ -9,7 +9,6 @@ $(document).ready(function () {
     console.log(x);
 
     var queryURL = "https://api.giphy.com/v1/gifs/search?q=" + x + "&api_key=BvNUkZJzlM55H5bvIB5Nm4L550MZGU3A&limit=10";
-    //dc6zaTOxFJmzC&limit=10";
 
     console.log(queryURL);
 
